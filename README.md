@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Oz497
-- 👀 I’m interested in web3
-- 🌱 I’m currently learning about airdrops
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on discord Oz#2795
+- 👀 I am interested in web3
+- 🌱 I am currently learning about airdrops and defi
+- 📫I am a community moderator and chat engager in Web3 
+- You can reach me on discord Oz#2795 
 
 <!---
 Oz497/Oz497 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
